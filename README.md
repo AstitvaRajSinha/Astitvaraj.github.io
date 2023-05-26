@@ -1,2 +1,2 @@
 # Astitvaraj.github.io
-create a portfolio using html css javascript
+portfolio made using html css javascript
